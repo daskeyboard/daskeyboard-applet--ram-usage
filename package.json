@@ -1,0 +1,51 @@
+{
+  "name": "q-ram-usage",
+  "displayName": "RAM Monitor",
+  "version": "1.0.5",
+  "description": "Displays RAM usage on a Das Keyboard Q device",
+  "longDescription": "Keep an eye on the RAM activity on your Q keyboard!",
+  "officialProductName": "",
+  "appUrl": "",
+  "isSingleton": true,
+  "videoUrl": "",
+  "icon": "assets/ram.png",
+  "image": "assets/q-ram-usage.png",
+  "publisherName": "Das Keyboard",
+  "authorName": "Das Keyboard team",
+  "authorUrl": "https://twitter.com/daskeyboard",
+  "issuesUrl": "https://github.com/daskeyboard/q-applet-cpu-usage/issues",
+  "homepage": "https://github.com/daskeyboard/q-applet-cpu-usage",
+  "developerRepoUrl": "https://github.com/daskeyboard/q-applet-cpu-usage",
+  "licenseUrl": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt",
+  "changelogUrl": "",
+  "qActionUrl": "",
+  "main": "q-ram-usage.js",
+  "scripts": {
+    "start": "node q-ram-usage.js",
+    "test": "mocha"
+  },
+  "engines": {
+    "das-keyboard-q": "2.4.x"
+  },
+  "dependencies": {
+    "daskeyboard-applet": "^2.7.12",
+    "mocha": "^5.2.0",
+    "systeminformation": "^3.49.3",
+    "request": "^2.88.0"
+  },
+  "qConfig": {
+    "geometry": {
+      "width": 1,
+      "height": 1,
+      "defaults": {
+        "origin": {
+          "x": 0,
+          "y": 1
+        }
+      }
+    },
+    "applet": {
+      "defaults": {}
+    }
+  }
+}
