@@ -44,7 +44,6 @@ class RamUsage extends q.DesktopApp {
   generateColor(percent) {
 
     let color =[];
-    console.log(percent);
 
     switch (true){
 
