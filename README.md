@@ -1,14 +1,14 @@
 # Q Applet: RAM Monitor
 
-Displays the RAM usage as a progress bar on a Das Keyboard Q Series.
+Displays the RAM usage on a Das Keyboard Q Series.
 
-[GitHub repository](https://github.com/daskeyboard/q-applet-cpu-usage)
+[GitHub repository](https://github.com/daskeyboard/todo)
 
 ## Example
 
-RAM Monitor as a progress bar on keys `~,1,2,3,4,5,6,7,8,9`
+RAM Monitor on keys `k`
 
-![RAM meter on a Das Keybaord Q](https://raw.githubusercontent.com/daskeyboard/daskeyboard-applet--cpu-monitor/master/assets/q-cpu-usage.png "Q RAM usage")
+![RAM meter on a Das Keybaord Q](https://raw.githubusercontent.com/daskeyboard/daskeyboard-applet--ram-monitor/master/assets/q-ram-usage.png "Q RAM usage")
 
 ## Changelog
 
