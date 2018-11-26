@@ -1,5 +1,5 @@
-# CPU Monitor
+# RAM Monitor
 
-Displays the CPU usage as a progress bar.
+Displays the RAM usage on keys.
 
-![CPU Monitor on a Das Keyboard Q](https://raw.githubusercontent.com/daskeyboard/daskeyboard-applet--cpu-monitor/master/assets/cpu-monitor-image-enduser.PNG "Q CPU Monitor")
+![RAM Monitor on a Das Keyboard Q](https://raw.githubusercontent.com/daskeyboard/daskeyboard-applet--cpu-monitor/master/assets/q-ram-usage.PNG "Q CPU Monitor")
