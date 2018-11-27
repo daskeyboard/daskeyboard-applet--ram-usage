@@ -27,12 +27,11 @@ describe('RamUsage', function () {
       assert(expected === actual, message);
     }
 
-    assertLight(30, '#00FF00');
-    assertLight(50, '#00FF00');
-    assertLight(60, '#FFFF00');
-    assertLight(60, '#FFFF00');
-    assertLight(70, '#FFFF00');
-    assertLight(80, '#FF0000');
+    assertLight(20, '#00FF00');
+    assertLight(30, '#33FF00');
+    assertLight(69, '#FFFF00');
+    assertLight(73, '#FF6600');
+    assertLight(84, '#FF6600');
     assertLight(90, '#FF0000');
     assertLight(100, '#FF0000');
 
