@@ -5,7 +5,7 @@ const si = require('systeminformation');
 const q = require('daskeyboard-applet');
 
 // Color associated to ram activity from low (green), middle (yellow), to high (red).
-const colors = ['#00FF00', '#FFFF00', '#FF0000'];
+const colors = ['#00FF00', '#33FF00','#FFFF00', '#FF6600', '#FF0000'];
 
 const logger = q.logger;
 
@@ -47,16 +47,24 @@ class RamUsage extends q.DesktopApp {
 
     switch (true){
 
-      case percent < 60:
+      case percent < 30:
         color.push(new q.Point(colors[0]));
         break;
-      
-      case percent < 80:
+
+      case percent < 50:
         color.push(new q.Point(colors[1]));
         break;
 
-      case percent <= 100:
+      case percent < 70:
         color.push(new q.Point(colors[2]));
+        break;
+      
+      case percent < 85:
+        color.push(new q.Point(colors[3]));
+        break;
+
+      case percent <= 100:
+        color.push(new q.Point(colors[4]));
         break;
 
       default:
