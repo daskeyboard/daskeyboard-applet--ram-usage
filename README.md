@@ -8,7 +8,7 @@ Displays the RAM usage on a Das Keyboard Q Series.
 
 RAM Monitor on keys `ESC`
 
-![RAM meter on a Das Keybaord Q](https://github.com/F-DALLA-VALLE/daskeyboard--applet--ram-monitor/blob/master/assets/q-ram-usage-yellow.png "Q RAM usage")
+![RAM meter on a Das Keybaord Q](assets/q-ram-usage-yellow.png "Q RAM usage")
 
 ## Changelog
 
