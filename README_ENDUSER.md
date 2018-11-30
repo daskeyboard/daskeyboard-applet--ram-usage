@@ -2,4 +2,4 @@
 
 Displays the RAM usage on keys.
 
-![RAM Monitor on a Das Keyboard Q](assets/q-ram-usage-yellow.png "Q RAM Monitor")
+![RAM Monitor on a Das Keyboard Q](assets/q-ram-usage.png "Q RAM Monitor")
