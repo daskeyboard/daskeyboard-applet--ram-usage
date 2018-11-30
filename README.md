@@ -2,7 +2,7 @@
 
 Displays the RAM usage on a Das Keyboard Q Series.
 
-[GitHub repository](https://github.com/daskeyboard/todo)
+[GitHub repository](https://github.com/daskeyboard/daskeyboard-applet--ram-usage)
 
 ## Example
 
