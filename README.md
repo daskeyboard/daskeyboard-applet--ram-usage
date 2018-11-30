@@ -6,9 +6,9 @@ Displays the RAM usage on a Das Keyboard Q Series.
 
 ## Example
 
-RAM Monitor on keys `ESC`
+RAM Monitor on keys `m`
 
-![RAM meter on a Das Keybaord Q](assets/q-ram-usage-yellow.png "Q RAM usage")
+![RAM meter on a Das Keybaord Q](assets/q-ram-usage.png "Q RAM usage")
 
 ## Changelog
 
