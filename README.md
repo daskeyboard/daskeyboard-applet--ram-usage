@@ -6,7 +6,10 @@ Displays the RAM usage on a Das Keyboard Q Series.
 
 ## Example
 
-RAM Monitor on keys `m`
+Displays the percent of memory used. Green means a low percent, plenty of memory remaining, Red means you are running out of memory. In between you will see shades of green turning to bright red.
+
+Example with 48% memory used :
+
 
 ![RAM meter on a Das Keybaord Q](assets/q-ram-usage.png "Q RAM usage")
 
@@ -16,10 +19,10 @@ RAM Monitor on keys `m`
 
 ## Installation
 
-Requires a Das Keyboard Q series: www.daskeyboard.com/5q
+Requires a Das Keyboard Q series: www.daskeyboard.com
 
 Installation, configuration and uninstallation of applets is done within
-the Q Desktop application (https://www.daskeyboard.io/get-started/software/ )
+the Q Desktop application (https://www.daskeyboard.com/q )
 
 ## Contributions
 
