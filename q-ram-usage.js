@@ -24,7 +24,7 @@ class RamUsage extends q.DesktopApp {
       return new q.Signal({
         points: [this.generateColor(percent)],
         name: "RAM Usage",
-        message: Math.round(percent) + "%",
+        message: "Memory used:" + Math.round(percent) + "%",
         isMuted: true, // don't flash the Q button on each signal
       });
     });
