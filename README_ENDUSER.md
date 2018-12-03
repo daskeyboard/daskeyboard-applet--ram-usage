@@ -1,4 +1,4 @@
-# RAM Monitor
+# RAM Usage
 
 Displays the percent of memory used. Green means a low percent, plenty of memory remaining, Red means you are running out of memory.
 

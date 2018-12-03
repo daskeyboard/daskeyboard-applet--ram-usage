@@ -1,4 +1,4 @@
-# Q Applet: RAM Monitor
+# Q Applet: RAM Usage
 
 Displays the RAM usage on a Das Keyboard Q Series.
 
