@@ -23,9 +23,9 @@
   "readMeEndUserUrl": "README_ENDUSER.md",
   "license": "MIT",
   "qActionUrl": "",
-  "main": "q-ram-usage.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node q-ram-usage.js",
+    "start": "node index.js",
     "test": "mocha"
   },
   "engines": {
