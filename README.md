@@ -11,7 +11,7 @@ Displays the percent of memory used. Green means a low percent, plenty of memory
 Example with 50% memory used :
 
 
-![RAM meter on a Das Keybaord Q](assets/q-ram-usage.png "Q RAM usage")
+![RAM meter on a Das Keybaord Q](assets/image.png "Q RAM usage")
 
 ## Changelog
 
