@@ -1,5 +1,5 @@
 const assert = require('assert');
-const t = require('../q-ram-usage');
+const t = require('../index');
 
 const black = '#000000';
 
