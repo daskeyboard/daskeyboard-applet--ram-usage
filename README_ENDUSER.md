@@ -4,4 +4,4 @@ Displays the percent of memory used. Green means a low percent, plenty of memory
 
 Example with 50% memory used :
 
-![RAM Monitor on a Das Keyboard Q](assets/image.png "Q RAM Monitor")
+![RAM Usage on a Das Keyboard Q](assets/image.png "Q RAM Usage")
