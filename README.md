@@ -10,8 +10,7 @@ Displays the percent of memory used. Green means a low percent, plenty of memory
 
 Example with 50% memory used :
 
-
-![RAM meter on a Das Keybaord Q](assets/image.png "Q RAM usage")
+![RAM Usage on a Das Keybaord Q](assets/image.png "Q RAM usage")
 
 ## Changelog
 
@@ -23,6 +22,10 @@ Requires a Das Keyboard Q series: www.daskeyboard.com
 
 Installation, configuration and uninstallation of applets is done within
 the Q Desktop application (https://www.daskeyboard.com/q )
+
+## Running tests
+
+    yarn test
 
 ## Contributions
 
