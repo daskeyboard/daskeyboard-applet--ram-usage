@@ -6,7 +6,7 @@ Displays the RAM usage on a Das Keyboard Q Series.
 
 ## Example
 
-Displays the percent of memory used. Green means a low percent, plenty of memory remaining, Red means you are running out of memory. In between you will see shades of green turning to bright red.
+Displays the percentage of memory used. Green means a low percent, plenty of memory remaining, Red means you are running out of memory. In between you will see shades of green turning to bright red.
 
 Example with 50% memory used :
 
