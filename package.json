@@ -1,7 +1,7 @@
 {
   "name": "daskeyboard-applet--ram-usage",
   "displayName": "RAM Usage",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Displays RAM usage on a Das Keyboard Q device",
   "longDescription": "Keep an eye on the RAM activity on your Q keyboard",
   "officialProductName": "RAM Usage",
@@ -31,6 +31,7 @@
   "engines": {
     "das-keyboard-q": "2.4.x"
   },
+  "das-q-runner":"3.1.0",
   "dependencies": {
     "daskeyboard-applet": "^2.7.12",
     "mocha": "^5.2.0",
