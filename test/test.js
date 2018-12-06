@@ -1,8 +1,6 @@
 const assert = require('assert');
 const t = require('../index');
 
-const black = '#000000';
-
 describe('RamUsage', function () {
   let app = new t.RamUsage();
 
