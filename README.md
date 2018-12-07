@@ -6,7 +6,7 @@ Displays the RAM usage on a Das Keyboard Q Series.
 
 ## Example
 
-Displays the percentage of memory used with the following colors: greens <30%, yellow <70%, orange < 85% and red 85% and above.
+Displays the percentage of memory used with the following colors: greens < 30%, yellow < 70%, orange < 85% and red 85% and above.
 
 Example with 50% memory used :
 
