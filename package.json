@@ -10,7 +10,7 @@
   "publisher": "Das Keyboard",
   "videoUrl": "",
   "icon": "assets/icon.png",
-  "image": "assets/q-ram-usage.png",
+  "image": "assets/image-missing.png",
   "publisherName": "Das Keyboard",
   "authorName": "Das Keyboard",
   "authorUrl": "https://twitter.com/daskeyboard",
@@ -46,9 +46,6 @@
           "y": 1
         }
       }
-    },
-    "applet": {
-      "defaults": {}
     }
   }
 }
