@@ -2,7 +2,7 @@
   "name": "daskeyboard-applet--ram-usage",
   "displayName": "RAM Usage",
   "version": "1.0.0",
-  "description": "Displays RAM usage on a Das Keyboard Q device",
+  "description": "Displays RAM usage.",
   "longDescription": "Keep an eye on the RAM activity on your Q keyboard",
   "officialProductName": "RAM Usage",
   "appUrl": "",
